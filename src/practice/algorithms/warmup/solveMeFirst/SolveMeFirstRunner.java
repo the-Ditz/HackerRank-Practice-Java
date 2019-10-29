@@ -7,16 +7,16 @@ import java.util.Scanner;
  * information about the purpose of this repository or about HackerRank.com.
  *
  * All (or most) of the code in this file was provided by HackerRank.com. For code authored in attempts to solve the
- * provided problem see the associated Solution class in this package.
+ * provided problem see the associated SolveMeFirstSolution class in this package.
  *
- * @see Solution
+ * @see SolveMeFirstSolution
  * @see <a href="https://www.hackerrank.com/challenges/solve-me-first/problem">Original problem from www.hackerrank.com</a>
  */
-public class Runner {
+public class SolveMeFirstRunner {
 
     public static void main(String[] args) {
 
-        final Solution solution = new Solution();
+        final SolveMeFirstSolution solution = new SolveMeFirstSolution();
 
         Scanner in = new Scanner(System.in);
         int a;
