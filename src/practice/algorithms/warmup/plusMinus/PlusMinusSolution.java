@@ -1,8 +1,16 @@
 package practice.algorithms.warmup.plusMinus;
 
-import java.util.*;
-
-class Solution {
+/**
+ * This class contains the solution code for this exercise. See README.md for information about the purpose of this
+ * repository or about HackerRank.com.
+ *
+ * All (or most) of the code in this file is original and was authored as an attempts to solve the provided problem. To
+ * see the logic provided by HackerRank.com see the associated PlusMinusRunner class in this package.
+ *
+ * @see PlusMinusRunner
+ * @see <a href="https://www.hackerrank.com/challenges/plus-minus/problem">Original problem from www.hackerrank.com</a>
+ */
+class PlusMinusSolution {
 
     // Complete the plusMinus function below.
     static void plusMinus(int[] arr) {

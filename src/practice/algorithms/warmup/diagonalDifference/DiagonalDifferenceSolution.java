@@ -1,11 +1,18 @@
 package practice.algorithms.warmup.diagonalDifference;
 
-import java.io.*;
 import java.util.*;
-import java.util.stream.*;
-import static java.util.stream.Collectors.toList;
 
-class Solution {
+/**
+ * This class contains the solution code for this exercise. See README.md for information about the purpose of this
+ * repository or about HackerRank.com.
+ *
+ * All (or most) of the code in this file is original and was authored as an attempts to solve the provided problem. To
+ * see the logic provided by HackerRank.com see the associated DiagonalDifferenceRunner class in this package.
+ *
+ * @see DiagonalDifferenceRunner
+ * @see <a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem">Original problem from www.hackerrank.com</a>
+ */
+class DiagonalDifferenceSolution {
 
     static int diagonalDifference(List<List<Integer>> arr) {
 

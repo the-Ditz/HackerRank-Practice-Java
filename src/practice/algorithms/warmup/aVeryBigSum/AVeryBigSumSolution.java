@@ -5,7 +5,7 @@ package practice.algorithms.warmup.aVeryBigSum;
  * repository or about HackerRank.com.
  *
  * All (or most) of the code in this file is original and was authored as an attempts to solve the provided problem. To
- * see the logic provided by HackerRank.com see the associated SimpleArraySumRunner class in this package.
+ * see the logic provided by HackerRank.com see the associated AVeryBigSumRunner class in this package.
  *
  * @see AVeryBigSumRunner
  * @see <a href="https://www.hackerrank.com/challenges/a-very-big-sum/problem">Original problem from www.hackerrank.com</a>
@@ -15,8 +15,8 @@ class AVeryBigSumSolution {
     // Complete the aVeryBigSum function below.
     static long aVeryBigSum(long[] ar) {
         long sum = 0;
-        for (int i = 0; i < ar.length; i++){
-            sum += ar[i];
+        for (long l : ar) {
+            sum += l;
         }
         return sum;
     }

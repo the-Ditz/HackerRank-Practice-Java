@@ -12,7 +12,7 @@ import static java.util.stream.Collectors.toList;
  * information about the purpose of this repository or about HackerRank.com.
  *
  * All (or most) of the code in this file was provided by HackerRank.com. For code authored in attempts to solve the
- * provided problem see the associated SimpleArraySumSolution class in this package.
+ * provided problem see the associated CompareTheTripletsSolution class in this package.
  *
  * @see CompareTheTripletsSolution
  * @see <a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem">Original problem from www.hackerrank.com</a>

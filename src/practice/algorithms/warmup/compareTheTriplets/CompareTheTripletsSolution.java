@@ -10,7 +10,7 @@ import java.util.List;
  * repository or about HackerRank.com.
  *
  * All (or most) of the code in this file is original and was authored as an attempts to solve the provided problem. To
- * see the logic provided by HackerRank.com see the associated SimpleArraySumRunner class in this package.
+ * see the logic provided by HackerRank.com see the associated CompareTheTripletsRunner class in this package.
  *
  * @see CompareTheTripletsRunner
  * @see <a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem">Original problem from www.hackerrank.com</a>
